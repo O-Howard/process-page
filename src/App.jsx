@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css'
 import banner from './assets/background-png.png'
 import firstImg from './assets/process-icon-1.svg'
