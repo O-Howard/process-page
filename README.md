@@ -35,6 +35,8 @@ This project is built with the following technologies:
 
 ---
 
+```markdown
+
 ## Installation  
 
 1. Clone the repository:
