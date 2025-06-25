@@ -1,4 +1,4 @@
-# Business Card
+# Process Page
 
 A clean and responsive React component showcasing a modern process section with icons and descriptions.
 
