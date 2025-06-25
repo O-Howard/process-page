@@ -35,21 +35,20 @@ This project is built with the following technologies:
 
 ---
 
-```markdown
 
 ## Installation  
 
-1. Clone the repository:
+1.Clone the repository:
 
   ```bash
   git clone https://github.com/O-Howard/process-page.git
 
-2. Navigate to the project directory:
+2.Navigate to the project directory:
 
   ```bash
   cd process-page
 
-3. Install dependencies:
+3.Install dependencies:
 
   ```bash
   npm install
