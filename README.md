@@ -1,6 +1,6 @@
 # Business Card
 
-A clean and minimal React component displaying a professional business card.
+A clean and responsive React component showcasing a modern process section with icons and descriptions.
 
 ---
 
@@ -15,7 +15,8 @@ A clean and minimal React component displaying a professional business card.
 
 ## Demo
 
-Live demo: [https://business-card-oh.netlify.app](https://business-card-oh.netlify.app)
+See it in action:  
+👉 [https://process-page-oh.netlify.app](https://process-page-oh.netlify.app)
 
 ---
 
@@ -34,7 +35,7 @@ This project is built with the following technologies:
 - React  
 - Vite  
 - CSS  
-- Google Fonts (e.g., Poppins / lato)
+- Google Fonts (Red Hat Display)
 
 ---
 
@@ -43,12 +44,12 @@ This project is built with the following technologies:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/O-Howard/business-card.git
+   git clone https://github.com/O-Howard/process-page.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd business-card
+   cd process-page
 
 3. Install dependencies:
 
